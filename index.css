@@ -1,0 +1,32 @@
+body {
+  background-color: pink;
+}
+
+.intro {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  background-color: lightseagreen;
+}
+
+.intro2 {
+  font-weight: 900;
+}
+
+.intro3 {
+  background-color: lightseagreen;
+  padding: 20px;
+}
+
+.intro4 {
+  background-color: lime;
+  margin: 20px;
+}
+
+.intro5 {
+  color: black;
+}
+
+button:hover {
+  background-color: goldenrod;
+}
